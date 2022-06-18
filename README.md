@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Zsearcher.png" alt="Grey Hat Official">
+  <img src="assets/grey-hat.png" alt="Grey Hat Official">
 </p>
 <h1 align="center">
   <b>Grey Hat Movies Bot</b>
