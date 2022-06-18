@@ -96,5 +96,4 @@ python3 bot.py
 • /broadcast - to broadcast a message to Cynite users
 ```
 
-Cʀᴇᴅɪᴛ ›› [𝐎𝐩𝐮𝐬 𝐓𝐞𝐜𝐡𝐳](https://t.me/OpusTechz) || [𝐂𝐨𝐧𝐭𝐚𝐜𝐭](https://t.me/CyniteOfficial)                                                                                                                                                                                    
-𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [𝐂𝐲𝐧𝐢𝐭𝐞 𝐁𝐨𝐭𝐬](https://t.me/CyniteBots)
+<!-- Cʀᴇᴅɪᴛ ›› [𝐎𝐩𝐮𝐬 𝐓𝐞𝐜𝐡𝐳](https://t.me/OpusTechz) -->
