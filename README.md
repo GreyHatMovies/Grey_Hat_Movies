@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="assets/Zsearcher.png" alt="Technical Cynite">
+  <img src="assets/Zsearcher.png" alt="Grey Hat Official">
 </p>
 <h1 align="center">
-  <b>ᎪႮͲϴ-ҒᏆᏞͲᎬᎡ-ᏴϴͲ</b>
+  <b>Grey Hat Movies Bot</b>
 </h1>
-<a href="https://youtube.com/channel/UCiaz-J50QhtJ73XEEjP_aLQ">
-  <img src="https://img.shields.io/badge/𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴-red?logo=youtube" width="150">
+<a href="#">
+<!--   <img src="https://img.shields.io/badge/𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴-red?logo=youtube" width="150"> -->
 
 [![Stars](https://img.shields.io/github/stars/CyniteOfficial/Auto-Filter-Bot?style=flat-square&color=orange)](https://github.com/CyniteOfficial/Auto-Filter-Bot/stargazers)
 [![Forks](https://img.shields.io/github/forks/CyniteOfficial/Auto-Filter-Bot?style=flat-square&color=blue)](https://github.com/CyniteOfficial/Auto-Filter-Bot/fork)
@@ -50,7 +50,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/CyniteOfficial/Auto-Filter-Bot">
+<a href="https://heroku.com/deploy?template=https://github.com/GreyHatMovies/Grey_Hat_Movies">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
